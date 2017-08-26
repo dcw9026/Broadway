@@ -45,3 +45,10 @@ h3 {
 p {
   font-size: 14px;
 }
+
+h2#contact_header {
+  background: url("../images/flatiron-building.png") no-repeat;
+  color: white;
+  font-size: 23px;
+  padding: 15px 0 15px 0;
+}
