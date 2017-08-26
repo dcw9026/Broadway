@@ -52,3 +52,34 @@ h2#contact_header {
   font-size: 23px;
   padding: 15px 0 15px 0;
 }
+
+/* Footer styles */
+
+footer {
+  text-align: left;
+  background-color: dimgray;
+  padding: 10px 0 10px 0;
+}
+
+p#copyright {
+  font-size: 11px;
+  color: white;
+  display: inline;
+}
+
+nav#footer_nav {
+  display: inline;
+}
+
+nav#footer_nav ul {
+  display: inline;
+}
+
+nav#footer_nav ul li{
+  display: inline;
+}
+
+nav#footer_nav ul li a{
+  text-decoration: none;
+  color: white;
+}
