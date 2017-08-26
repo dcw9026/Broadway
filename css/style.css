@@ -1,3 +1,47 @@
 body {
-  background-color: black;
+  font-family: Verdana,sans-serif;
+  color: white;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+/* Header Style */
+
+header {
+  background: url("../images/flatiron-building.png") no-repeat;
+}
+
+header h1 {
+  font-size: 70px;
+  margin: 0;
+}
+
+header nav#header_nav ul li {
+  line-height: 35px;
+  font-size: 18px;
+  list-style: none;
+}
+
+header nav#header_nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+/* Main Style */
+
+h2, h3, p {
+  color: black;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+p {
+  font-size: 14px;
 }
